@@ -1,0 +1,120 @@
+body{
+    margin: 0;
+    width: 1500px;
+        font-family: "Merriweather", serif;
+        font-weight: 300;
+        font-style: normal;
+}
+
+
+
+h1{
+    margin-top: 0;
+    font-family: "Sacramento", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+  h2{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3{
+    font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.top{
+    background-color: #CDE8E5;
+    width: 1500px;
+    height: 500px;
+    padding: 20px;
+    border-top: 10px;
+}
+
+.head{
+    position: relative;
+    top:120px;
+    left: 550px;
+}
+.bottom{
+    position: relative;
+    top: 100px;
+    left: 580px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.mountain{
+    position: absolute;
+    left:350px;
+    bottom:39px;
+}
+.typewriter{
+    height: 250px;
+    position: relative;
+    left: 500px;
+    padding: 20px;
+
+}
+.coding{
+    height: 250px;
+    position: relative;
+    left: 500px;
+    padding: 20px;
+}
+
+.typewriter:hover{
+    background-color: darkcyan;
+}
+
+.coding:hover{
+    background-color: darkcyan;
+}
+.bottom-container{
+    position: relative;
+    left: 550px;
+}
+.contact-me{
+    position: relative;
+    left: 550px;
+}
+.touch{
+    position: relative;
+    right: 100px;
+}
+.passion{
+    position: relative;
+    right: 250px;
+}
+.footer-link{
+    position: relative;
+    left: 70px;
+    bottom:10px;
+}
+.btn{
+    position: relative;
+    left: 25px;
+}
+.middle-container{
+    margin: 30px;
+}
+.copy{
+    position: relative;
+    left: 35px;
+}
